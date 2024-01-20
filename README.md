@@ -1,15 +1,15 @@
 <h3 align="center">
-  <samp>
+  <code>
     &gt; Hello There! I am
     <a target="_blank" href="https://joaoborba.com">Borba</a>
     👋
-  </samp>
+  </code>
 </h3>
 
 <p align="center">
-  <samp>
+  <code>
     「 Web|.NET Developer from <b>Brazil</b> 」
-  </samp>
+  </code>
 </p>
 
 <br/>
