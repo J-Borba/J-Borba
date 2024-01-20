@@ -3,9 +3,7 @@
 </h3>
 
 <p align="center">
-  <code>
-    「 Web|.NET Developer from <b>Brazil</b> 」
-  </code>
+  <code>「 Web|.NET Developer from <b>Brazil</b> 」</code>
 </p>
 
 <br/>
