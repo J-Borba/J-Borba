@@ -17,13 +17,13 @@
 <br/>
 
 <p>
-  <img align="right" width="170"
+  <img align="right" width="250"
   src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e477o19g1iqwncvqr92yuf95kwe0wtp9tfdd5rvidt4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 💜 I love coding and learning new things <br/><br/>
 
-  <img width="20" src="site.png"/> 
-  <a target="_blank" href="https://joaoborba.com">joaoborba.com</a>
+<img width="20" src="site.png"/> <a target="_blank" href="https://joaoborba.com">joaoborba.com</a>
+
 </p>
 
 <br/>
