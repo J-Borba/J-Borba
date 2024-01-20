@@ -1,9 +1,5 @@
 <h3 align="center">
-  <code>
-    &gt; Hello There! I am
-    <a target="_blank" href="https://joaoborba.com">Borba</a>
-    👋
-  </code>
+  <code>&gt; Hello There! I am <a target="_blank" href="https://joaoborba.com">Borba</a>👋</code>
 </h3>
 
 <p align="center">
