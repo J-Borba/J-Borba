@@ -30,6 +30,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## Favorite Technologies 👨🏼‍💻
 
@@ -51,6 +53,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+<br/>
+<br/>
 <br/>
 <br/>
 
