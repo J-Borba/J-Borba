@@ -18,7 +18,7 @@
 💜 I love coding and learning new things <br/><br/>
 <br/>
 <br/>
-<img width="20" src="site.png"/> Check it out 😉 ➡️ <a target="_blank" href="https://joaoborba.com">joaoborba.com</a>
+<img width="20" src="site.png"/> Check this out 😉 ➡️ <a target="_blank" href="https://joaoborba.com">joaoborba.com</a>
 </p>
 
 <br/>
